@@ -15,7 +15,7 @@ int main()
     cin >> xend;
     cout << "Введіть будь ласка крок:";
     cin >> step;
-    cout << setw(15) << "_______ Вайл _______\n";
+    cout << setw(15) << "_______ While | Вайл _______\n";
     cout << setw(7) << "x" << setw(14) << "y" << endl;
     xstartW = xstart;
     while ((xstartW >= 3) && (xend <= 5) && (xstartW <= xend) && (step == 0.2))
@@ -24,7 +24,7 @@ int main()
         cout << setw(7) << xstartW << setw(14) << y << endl;
         xstartW += step;
     }
-    cout << setw(15) << "_______ Ду Вайл _______\n";
+    cout << setw(15) << "_______ DoWhile | ДуВайл _______\n";
     cout << setw(7) << "x" << setw(17) << "y" << endl;
     xstartD = xstart;
     do {
