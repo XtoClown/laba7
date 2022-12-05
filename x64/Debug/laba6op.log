@@ -1,0 +1,4 @@
+﻿  laba6op.cpp
+D:\Лабораторки\ОПІ\6\6 OP\laba6op\laba6op.cpp(23,52): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Лабораторки\ОПІ\6\6 OP\laba6op\laba6op.cpp(31,52): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  laba6op.vcxproj -> D:\Лабораторки\ОПІ\6\6 OP\laba6op\x64\Debug\laba6op.exe
